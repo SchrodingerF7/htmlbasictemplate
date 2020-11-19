@@ -1,0 +1,31 @@
+
+/* modificações gerais no body */
+
+body {
+    background: black;
+}
+
+/* Modificar cor e posicionamentos dos links */
+
+.navbar-light .navbar-nav .nav-link {
+
+    color: black;
+
+}
+
+.botao {
+
+    margin-left: 15px;
+
+}
+
+/* Modificar hover se precisar 
+
+.navbar-light .navbar-nav .nav-link:hover {
+
+    color: black;
+
+}  */
+
+
+
